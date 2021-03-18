@@ -1,0 +1,68 @@
+#main {
+    background-color: aqua;
+    padding: 1%;
+    margin: 1px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#pxT {
+    font-size: 30px;
+}
+
+.pxV {
+    font-size: 20px;
+}
+
+p:nth-child(3) {
+    font-size: 10px;
+}
+
+#main2 {
+    background-color: aliceblue;
+}
+
+#m1 {
+    font-size: 1em;
+}
+
+#m2 {
+    font-size: 2em;
+}
+
+#m3 {
+    font-size: 3em;
+}
+
+
+/*FUENTES*/
+
+@font-face {
+    font-family: 'fuente1';
+    src: url(../fuentes/Valentime.otf);
+}
+
+@font-face {
+    font-family: 'fuente2';
+    src: url(../fuentes/Ansley\ Display-Black.ttf);
+}
+
+#main3 {
+    background-color: beige;
+    margin: 1%;
+    padding: 1%;
+    font-size: 3em;
+}
+
+#f1 {
+    font-family: 'fuente1';
+}
+
+#f2 {
+    font-family: 'fuente2';
+}
+
+#f3 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 32px;
+}
